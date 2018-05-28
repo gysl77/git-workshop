@@ -1,5 +1,6 @@
 # git-workshop
 git 실습
+호텔 안내
 
 1. [조식](morning.md)
 2. [중식](lunch.md)
